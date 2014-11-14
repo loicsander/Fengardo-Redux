@@ -27,7 +27,7 @@ Here’s the list of things I felt should be done, some of them I started, but a
 + Generate smallcaps (again, if weights are compatible for interpolation, it should be easy).
 + Draw light weights.
 
-## About the designer
+## About the (initial) designer
 
 Well that’s me, Captain Obvious. 
 
