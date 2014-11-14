@@ -29,4 +29,6 @@ Here’s the list of things I felt should be done, some of them I started, but a
 
 ## About the designer
 
-Well that’s me. I won’t write much here, just a few words to say that by opening this repository I don’t expect much of it and I myself don’t have much time to dedicate to this. This being, I will still be happy to answer questions any participant may have and hopefully, I’ll also find a bit of spare time to participate myself once in a while.
+Well that’s me, Captain Obvious. 
+
+I won’t write much here, just a few words to say that by opening this repository I don’t expect much of it and I myself won’t have much time to dedicate to this. This being, I will still be happy to answer questions any participant may have and hopefully, I’ll also find a bit of spare time to participate myself once in a while.
