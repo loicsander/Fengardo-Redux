@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="1">
+  <advance width="601"/>
+  <unicode hex="0132"/>
+  <outline>
+    <contour>
+      <point x="415" y="700" type="line"/>
+      <point x="415" y="700"/>
+      <point x="417" y="114"/>
+      <point x="415" y="35" type="curve" smooth="yes"/>
+      <point x="412" y="-53"/>
+      <point x="375" y="-95"/>
+      <point x="304" y="-95" type="curve" smooth="yes"/>
+      <point x="236" y="-95"/>
+      <point x="188" y="-42"/>
+      <point x="185" y="35" type="curve"/>
+      <point x="95" y="35" type="line"/>
+      <point x="98" y="-87"/>
+      <point x="183" y="-170"/>
+      <point x="304" y="-170" type="curve" smooth="yes"/>
+      <point x="419" y="-170"/>
+      <point x="501" y="-99"/>
+      <point x="505" y="35" type="curve" smooth="yes"/>
+      <point x="508" y="133"/>
+      <point x="505" y="700"/>
+      <point x="505" y="700" type="curve"/>
+    </contour>
+    <contour>
+      <point x="185" y="700" type="line"/>
+      <point x="95" y="700" type="line"/>
+      <point x="95" y="115" type="line"/>
+      <point x="185" y="115" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>IJ</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>601</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>IJ</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>601</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

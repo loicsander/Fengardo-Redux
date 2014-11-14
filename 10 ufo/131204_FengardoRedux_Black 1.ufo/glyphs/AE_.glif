@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="776"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="736" y="0" type="line"/>
+      <point x="736" y="165" type="line"/>
+      <point x="547" y="165" type="line"/>
+      <point x="547" y="280" type="line"/>
+      <point x="715" y="280" type="line"/>
+      <point x="715" y="440" type="line"/>
+      <point x="547" y="440" type="line"/>
+      <point x="547" y="545" type="line"/>
+      <point x="736" y="545" type="line"/>
+      <point x="736" y="710" type="line"/>
+      <point x="223" y="710" type="line"/>
+      <point x="-15" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="362" y="573" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="280" type="line"/>
+      <point x="259" y="280" type="line"/>
+      <point x="258" y="274"/>
+      <point x="211" y="120"/>
+      <point x="211" y="120" type="curve"/>
+      <point x="367" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>776</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>776</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

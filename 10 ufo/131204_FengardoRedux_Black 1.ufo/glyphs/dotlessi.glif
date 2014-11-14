@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="293"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="220" y="500" type="line"/>
+      <point x="40" y="469" type="line"/>
+      <point x="40" y="137" type="line" smooth="yes"/>
+      <point x="40" y="-28"/>
+      <point x="189" y="-19"/>
+      <point x="278" y="0" type="curve"/>
+      <point x="278" y="125" type="line"/>
+      <point x="244" y="125"/>
+      <point x="220" y="130"/>
+      <point x="220" y="169" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>293</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>293</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

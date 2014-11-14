@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="452"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="338" y="50" type="line"/>
+      <point x="334" y="50"/>
+      <point x="251" y="5"/>
+      <point x="179" y="-45" type="curve" smooth="yes"/>
+      <point x="120" y="-86"/>
+      <point x="79" y="-127"/>
+      <point x="79" y="-187" type="curve" smooth="yes"/>
+      <point x="79" y="-259"/>
+      <point x="159" y="-269"/>
+      <point x="215" y="-250" type="curve"/>
+      <point x="225" y="-196" type="line"/>
+      <point x="188" y="-196"/>
+      <point x="168" y="-185"/>
+      <point x="168" y="-157" type="curve" smooth="yes"/>
+      <point x="168" y="-121"/>
+      <point x="195" y="-98"/>
+      <point x="215" y="-82" type="curve" smooth="yes"/>
+      <point x="259" y="-47"/>
+      <point x="330" y="0"/>
+      <point x="330" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>452</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

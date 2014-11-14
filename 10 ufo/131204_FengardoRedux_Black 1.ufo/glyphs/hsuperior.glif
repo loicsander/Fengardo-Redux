@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hsuperior" format="1">
+  <advance width="359"/>
+  <unicode hex="02B0"/>
+  <outline>
+    <contour>
+      <point x="155" y="851" type="line"/>
+      <point x="30" y="832" type="line"/>
+      <point x="30" y="390" type="line"/>
+      <point x="155" y="390" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="390" type="line"/>
+      <point x="334" y="390" type="line"/>
+      <point x="334" y="611" type="line" smooth="yes"/>
+      <point x="334" y="691"/>
+      <point x="294" y="720"/>
+      <point x="240" y="720" type="curve" smooth="yes"/>
+      <point x="203" y="720"/>
+      <point x="172" y="704"/>
+      <point x="157" y="678" type="curve"/>
+      <point x="153" y="678" type="line"/>
+      <point x="155" y="596" type="line"/>
+      <point x="155" y="602"/>
+      <point x="160" y="625"/>
+      <point x="184" y="625" type="curve" smooth="yes"/>
+      <point x="203" y="625"/>
+      <point x="209" y="612"/>
+      <point x="209" y="593" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>359</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>359</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

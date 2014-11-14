@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="594"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="568" y="495" type="line"/>
+      <point x="573" y="658"/>
+      <point x="466" y="725"/>
+      <point x="338" y="725" type="curve" smooth="yes"/>
+      <point x="208" y="725"/>
+      <point x="96" y="643"/>
+      <point x="90" y="493" type="curve" smooth="yes"/>
+      <point x="87" y="421"/>
+      <point x="87" y="331"/>
+      <point x="90" y="222" type="curve" smooth="yes"/>
+      <point x="94" y="78"/>
+      <point x="185" y="-15"/>
+      <point x="332" y="-15" type="curve" smooth="yes"/>
+      <point x="484" y="-15"/>
+      <point x="568" y="75"/>
+      <point x="568" y="215" type="curve"/>
+      <point x="393" y="220" type="line"/>
+      <point x="393" y="178"/>
+      <point x="373" y="150"/>
+      <point x="337" y="150" type="curve" smooth="yes"/>
+      <point x="302" y="150"/>
+      <point x="282" y="178"/>
+      <point x="280" y="232" type="curve" smooth="yes"/>
+      <point x="278" y="308"/>
+      <point x="277" y="416"/>
+      <point x="280" y="484" type="curve" smooth="yes"/>
+      <point x="282" y="535"/>
+      <point x="302" y="560"/>
+      <point x="338" y="560" type="curve" smooth="yes"/>
+      <point x="375" y="560"/>
+      <point x="393" y="537"/>
+      <point x="393" y="490" type="curve"/>
+    </contour>
+    <contour>
+      <point x="6" y="367" type="line"/>
+      <point x="428" y="367" type="line"/>
+      <point x="452" y="462" type="line"/>
+      <point x="31" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="237" type="line"/>
+      <point x="396" y="237" type="line"/>
+      <point x="421" y="332" type="line"/>
+      <point x="25" y="332" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>594</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>594</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

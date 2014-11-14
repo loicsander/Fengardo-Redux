@@ -1,0 +1,115 @@
+@lowercase = [a b c d e f g h i j k l m n o p q r s t u v w x y z];
+@lowercasesuperior = [asuperior bsuperior csuperior dsuperior esuperior fsuperior gsuperior hsuperior isuperior jsuperior ksuperior lsuperior msuperior nsuperior osuperior psuperior qsuperior rsuperior ssuperior tsuperior usuperior vsuperior wsuperior xsuperior ysuperior zsuperior];
+@onum = [zero one two three four five six seven eight nine];
+@pnum = [zeroprop oneprop twoprop threeprop fourprop fiveprop sixprop sevenprop eightprop nineprop];
+@smcp1 = [a b c d e f g h i j k l m n o p q r s t u v w x y z agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis oe oslash scaron uacute ucircumflex udieresis ugrave yacute ydieresis zcaron exclam question eth thorn questiondown exclamdown];
+@smcp2 = [A.small B.small C.small D.small E.small F.small G.small H.small I.small J.small K.small L.small M.small N.small O.small P.small Q.small R.small S.small T.small U.small V.small W.small X.small Y.small Z.small Agrave.small Aacute.small Acircumflex.small Atilde.small Adieresis.small Aring.small AE.small Ccedilla.small Egrave.small Eacute.small Ecircumflex.small Edieresis.small Igrave.small Iacute.small Icircumflex.small Idieresis.small Ntilde.small Ograve.small Oacute.small Ocircumflex.small Otilde.small Odieresis.small OE.small Oslash.small Scaron.small Uacute.small Ucircumflex.small Udieresis.small Ugrave.small Yacute.small Ydieresis.small Zcaron.small exclam.small question.small Eth.small Thorn.small questiondown.small exclamdown.small];
+@subnum = [zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior];
+@supnum = [zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior];
+@tnum = [zerolining onelining twolining threelining fourlining fivelining sixlining sevenlining eightlining ninelining];
+feature smcp {
+  sub @smcp1 by @smcp2;
+  sub germandbls by S.small_S.small;
+} smcp;
+
+
+feature titl {
+	sub a by a.alt;
+	sub aacute by aacute.alt;
+	sub agrave by agrave.alt;
+	sub acircumflex by acircumflex.alt;
+	sub adieresis by adieresis.alt;
+	sub atilde by atilde.alt;
+	sub aring by aring.alt;
+	sub a e by ae.alt;
+  sub g by g.alt;
+  sub y by y.alt;
+  sub ydieresis by ydieresis.alt;
+  sub yacute by yacute.alt;
+} titl;
+
+
+feature liga {
+  sub f i by fi;
+	sub f l by fl;
+	sub f f by ff;
+	sub f f i by ffi;
+	sub f f l by ffl;
+	sub f b by fb;
+	sub f f b by ffb;
+	sub f h by fh;
+	sub f f h by ffh;
+	sub f k by fk;
+	sub f f k by ffk;
+	sub f j by fj;
+	sub f f j by ffj;
+	sub f t by ft;
+	sub f f t by fft;
+	sub T h by Th;
+  sub hyphen greater by arrowright;
+  sub less hyphen by arrowleft;
+  sub hyphen greaterequal by arrowup;
+  sub lessequal hyphen by arrowdown;
+  sub I J by IJ;
+  sub I.small J.small by IJ.small;
+  sub F J by F_J;
+} liga;
+
+
+feature pnum {
+  sub @onum by @pnum ;
+} pnum;
+
+
+feature tnum {
+  sub @onum by @tnum;
+} tnum;
+
+
+feature sups {
+  sub @onum by @supnum;
+  sub @tnum by @supnum;
+  sub @pnum by @supnum;
+  sub @lowercase by @lowercasesuperior;
+  sub parenleft by parenleftsuperior;
+  sub parenright by parenrightsuperior;
+} sups;
+
+
+feature subs {
+  sub @onum by @subnum ;
+  sub @tnum by @subnum;
+  sub @pnum by @subnum;
+  sub parenleft by parenleftinferior;
+  sub parenright by parenrightinferior;
+} subs;
+
+
+feature case {
+  sub hyphen by hyphen.cap;
+  sub endash by endash.cap;
+  sub emdash by emdash.cap;
+  sub guilsinglleft by guilsinglleft.cap;
+  sub guilsinglright by guilsinglright.cap;
+  sub guillemotleft by guillemotleft.cap;
+  sub guillemotright by guillemotright.cap;
+  sub questiondown by questiondown.cap;
+  sub exclamdown by exclamdown.cap;
+  sub bullet by bullet.cap;
+  sub @onum by @pnum ;
+} case;
+
+
+feature zero {
+  sub zero by zeroslash ;
+  sub zeroprop by zeropropslash;
+  sub zerolining by zeroliningslash;
+} zero;
+
+
+feature ss01 {
+  sub s t by st ;
+  sub c t by ct;
+} ss01;
+
+

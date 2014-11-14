@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.alt" format="1">
+  <advance width="428"/>
+  <outline>
+    <contour>
+      <point x="190" y="98" type="line"/>
+      <point x="179" y="94" type="line"/>
+      <point x="15" y="-250" type="line"/>
+      <point x="97" y="-250" type="line"/>
+      <point x="438" y="485" type="line"/>
+      <point x="357" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="47" type="line"/>
+      <point x="138" y="485" type="line"/>
+      <point x="57" y="485" type="line"/>
+      <point x="132" y="-33" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>y.alt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>428</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.cap" format="1">
+  <advance width="358"/>
+  <outline>
+    <contour>
+      <point x="217" y="575" type="curve" smooth="yes"/>
+      <point x="305" y="575"/>
+      <point x="313" y="652"/>
+      <point x="282" y="706" type="curve"/>
+      <point x="242" y="719" type="line"/>
+      <point x="234" y="701"/>
+      <point x="233" y="682"/>
+      <point x="216" y="682" type="curve" smooth="yes"/>
+      <point x="181" y="682"/>
+      <point x="149" y="720"/>
+      <point x="90" y="720" type="curve" smooth="yes"/>
+      <point x="2" y="720"/>
+      <point x="-11" y="643"/>
+      <point x="20" y="589" type="curve"/>
+      <point x="60" y="576" type="line"/>
+      <point x="68" y="594"/>
+      <point x="74" y="613"/>
+      <point x="91" y="613" type="curve" smooth="yes"/>
+      <point x="120" y="613"/>
+      <point x="169" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>358</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>358</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

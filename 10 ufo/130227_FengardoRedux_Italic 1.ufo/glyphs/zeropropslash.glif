@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeropropslash" format="1">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="159" y="84" type="line"/>
+      <point x="474" y="520" type="line"/>
+      <point x="474" y="520"/>
+      <point x="458" y="577"/>
+      <point x="457" y="578" type="curve"/>
+      <point x="143" y="135" type="line"/>
+    </contour>
+    <component base="zeroprop" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zeropropslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>572</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

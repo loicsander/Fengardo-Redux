@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="osuperior" format="1">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="309" y="499" type="curve" smooth="yes"/>
+      <point x="311" y="535"/>
+      <point x="311" y="559"/>
+      <point x="309" y="592" type="curve" smooth="yes"/>
+      <point x="305" y="660"/>
+      <point x="259" y="710"/>
+      <point x="177" y="710" type="curve" smooth="yes"/>
+      <point x="93" y="710"/>
+      <point x="47" y="660"/>
+      <point x="44" y="592" type="curve" smooth="yes"/>
+      <point x="42" y="553"/>
+      <point x="42" y="539"/>
+      <point x="44" y="499" type="curve" smooth="yes"/>
+      <point x="47" y="431"/>
+      <point x="96" y="380"/>
+      <point x="177" y="380" type="curve" smooth="yes"/>
+      <point x="257" y="380"/>
+      <point x="305" y="431"/>
+    </contour>
+    <contour>
+      <point x="244" y="591" type="curve" smooth="yes"/>
+      <point x="246" y="552"/>
+      <point x="246" y="534"/>
+      <point x="244" y="501" type="curve" smooth="yes"/>
+      <point x="242" y="457"/>
+      <point x="214" y="430"/>
+      <point x="177" y="430" type="curve" smooth="yes"/>
+      <point x="139" y="430"/>
+      <point x="112" y="457"/>
+      <point x="109" y="501" type="curve" smooth="yes"/>
+      <point x="107" y="533"/>
+      <point x="107" y="557"/>
+      <point x="109" y="591" type="curve" smooth="yes"/>
+      <point x="111" y="636"/>
+      <point x="139" y="660"/>
+      <point x="177" y="660" type="curve" smooth="yes"/>
+      <point x="215" y="660"/>
+      <point x="242" y="636"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>osuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>353</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>osuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>353</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

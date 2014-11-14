@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vsuperior" format="1">
+  <advance width="338"/>
+  <outline>
+    <contour>
+      <point x="333" y="710" type="line"/>
+      <point x="213" y="710" type="line"/>
+      <point x="183" y="564" type="line"/>
+      <point x="174" y="499" type="line"/>
+      <point x="172" y="499" type="line"/>
+      <point x="162" y="564" type="line"/>
+      <point x="140" y="710" type="line"/>
+      <point x="5" y="710" type="line"/>
+      <point x="89" y="390" type="line"/>
+      <point x="255" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>vsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>338</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>vsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>338</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

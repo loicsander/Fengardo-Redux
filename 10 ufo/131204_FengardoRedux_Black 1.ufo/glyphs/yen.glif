@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="621"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="69" y="238" type="line"/>
+      <point x="541" y="238" type="line"/>
+      <point x="541" y="333" type="line"/>
+      <point x="69" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="108" type="line"/>
+      <point x="541" y="108" type="line"/>
+      <point x="541" y="203" type="line"/>
+      <point x="69" y="203" type="line"/>
+    </contour>
+    <component base="Y" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>621</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>621</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

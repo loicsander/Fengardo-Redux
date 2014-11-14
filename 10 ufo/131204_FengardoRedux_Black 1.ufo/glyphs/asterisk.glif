@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="426"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="-12" y="545" type="line"/>
+      <point x="114" y="512" type="line"/>
+      <point x="24" y="396" type="line"/>
+      <point x="121" y="331" type="line"/>
+      <point x="196" y="453" type="line"/>
+      <point x="272" y="329" type="line"/>
+      <point x="373" y="395" type="line"/>
+      <point x="275" y="515" type="line"/>
+      <point x="403" y="538" type="line"/>
+      <point x="369" y="651" type="line"/>
+      <point x="249" y="602" type="line"/>
+      <point x="263" y="740" type="line"/>
+      <point x="135" y="734" type="line"/>
+      <point x="150" y="602" type="line"/>
+      <point x="26" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>426</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>426</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="560"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="84" y="120" type="line"/>
+      <point x="84" y="-15" type="line"/>
+      <point x="474" y="-15" type="line"/>
+      <point x="474" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="160" type="line"/>
+      <point x="360" y="304" type="line"/>
+      <point x="500" y="304" type="line"/>
+      <point x="500" y="444" type="line"/>
+      <point x="360" y="444" type="line"/>
+      <point x="360" y="598" type="line"/>
+      <point x="200" y="598" type="line"/>
+      <point x="200" y="444" type="line"/>
+      <point x="60" y="444" type="line"/>
+      <point x="60" y="304" type="line"/>
+      <point x="200" y="304" type="line"/>
+      <point x="200" y="160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>560</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>560</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

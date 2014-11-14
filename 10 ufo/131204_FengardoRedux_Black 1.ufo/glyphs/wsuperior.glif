@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wsuperior" format="1">
+  <advance width="502"/>
+  <unicode hex="02B7"/>
+  <outline>
+    <contour>
+      <point x="497" y="710" type="line"/>
+      <point x="377" y="710" type="line"/>
+      <point x="358" y="565" type="line"/>
+      <point x="351" y="512" type="line"/>
+      <point x="348" y="512" type="line"/>
+      <point x="341" y="565" type="line"/>
+      <point x="314" y="710" type="line"/>
+      <point x="193" y="710" type="line"/>
+      <point x="163" y="565" type="line"/>
+      <point x="155" y="511" type="line"/>
+      <point x="153" y="511" type="line"/>
+      <point x="148" y="566" type="line"/>
+      <point x="135" y="710" type="line"/>
+      <point x="5" y="710" type="line"/>
+      <point x="74" y="390" type="line"/>
+      <point x="218" y="390" type="line"/>
+      <point x="240" y="514" type="line"/>
+      <point x="248" y="585" type="line"/>
+      <point x="250" y="585" type="line"/>
+      <point x="261" y="514" type="line"/>
+      <point x="279" y="390" type="line"/>
+      <point x="426" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>wsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>502</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>wsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>502</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

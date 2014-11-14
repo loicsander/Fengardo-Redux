@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="486"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="250" y="233" type="curve"/>
+      <point x="428" y="444" type="line"/>
+      <point x="419" y="500" type="line"/>
+      <point x="51" y="500" type="line"/>
+      <point x="51" y="425" type="line"/>
+      <point x="323" y="425" type="line"/>
+      <point x="159" y="220" type="line"/>
+      <point x="173" y="174" type="line"/>
+      <point x="173" y="174"/>
+      <point x="196" y="179"/>
+      <point x="229" y="179" type="curve" smooth="yes"/>
+      <point x="299" y="179"/>
+      <point x="346" y="135"/>
+      <point x="346" y="52" type="curve" smooth="yes"/>
+      <point x="346" y="-41"/>
+      <point x="295" y="-75"/>
+      <point x="233" y="-75" type="curve" smooth="yes"/>
+      <point x="166" y="-75"/>
+      <point x="120" y="-35"/>
+      <point x="110" y="28" type="curve"/>
+      <point x="30" y="24" type="line"/>
+      <point x="44" y="-86"/>
+      <point x="123" y="-150"/>
+      <point x="235" y="-150" type="curve" smooth="yes"/>
+      <point x="343" y="-150"/>
+      <point x="436" y="-77"/>
+      <point x="436" y="54" type="curve" smooth="yes"/>
+      <point x="436" y="188"/>
+      <point x="347" y="234"/>
+      <point x="264" y="234" type="curve" smooth="yes"/>
+      <point x="261" y="234"/>
+      <point x="253" y="233"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>486</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>486</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

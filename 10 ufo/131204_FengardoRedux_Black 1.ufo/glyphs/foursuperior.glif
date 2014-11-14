@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="383"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="192" y="475" type="line"/>
+      <point x="192" y="390" type="line"/>
+      <point x="322" y="390" type="line"/>
+      <point x="322" y="475" type="line"/>
+      <point x="373" y="475" type="line"/>
+      <point x="373" y="570" type="line"/>
+      <point x="322" y="570" type="line"/>
+      <point x="322" y="785" type="line"/>
+      <point x="258" y="790"/>
+      <point x="173" y="790"/>
+      <point x="173" y="790" type="curve"/>
+      <point x="10" y="544" type="line"/>
+      <point x="25" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="109" y="570" type="line"/>
+      <point x="192" y="693" type="line"/>
+      <point x="192" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>foursuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>383</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>foursuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>383</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

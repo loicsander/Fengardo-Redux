@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F.small" format="1">
+  <advance width="423"/>
+  <outline>
+    <contour>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="165" type="line"/>
+      <point x="390" y="165" type="line"/>
+      <point x="390" y="315" type="line"/>
+      <point x="235" y="315" type="line"/>
+      <point x="235" y="400" type="line"/>
+      <point x="403" y="400" type="line"/>
+      <point x="403" y="550" type="line"/>
+      <point x="50" y="550" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F.small</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>423</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F.small</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>423</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

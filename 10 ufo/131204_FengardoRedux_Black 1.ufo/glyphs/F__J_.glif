@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F_J" format="1">
+  <advance width="841"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="260" type="line"/>
+      <point x="491" y="260" type="line"/>
+      <point x="491" y="420" type="line"/>
+      <point x="245" y="420" type="line"/>
+      <point x="245" y="545" type="line"/>
+      <point x="496" y="545" type="line"/>
+      <point x="496" y="710" type="line"/>
+      <point x="50" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="725" type="line"/>
+      <point x="606" y="230" type="line" smooth="yes"/>
+      <point x="606" y="174"/>
+      <point x="585" y="150"/>
+      <point x="551" y="150" type="curve" smooth="yes"/>
+      <point x="519" y="150"/>
+      <point x="493" y="172"/>
+      <point x="490" y="220" type="curve"/>
+      <point x="320" y="220" type="line"/>
+      <point x="311" y="62"/>
+      <point x="415" y="-15"/>
+      <point x="555" y="-15" type="curve" smooth="yes"/>
+      <point x="687" y="-15"/>
+      <point x="801" y="65"/>
+      <point x="801" y="230" type="curve" smooth="yes"/>
+      <point x="801" y="725" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F_J</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>841</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>F_J</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>841</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

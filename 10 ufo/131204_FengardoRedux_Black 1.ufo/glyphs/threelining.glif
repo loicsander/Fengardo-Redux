@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threelining" format="1">
+  <advance width="555"/>
+  <outline>
+    <contour>
+      <point x="274" y="-15" type="curve" smooth="yes"/>
+      <point x="409" y="-15"/>
+      <point x="527" y="78"/>
+      <point x="527" y="222" type="curve" smooth="yes"/>
+      <point x="527" y="333"/>
+      <point x="454" y="400"/>
+      <point x="372" y="412" type="curve"/>
+      <point x="506" y="595" type="line"/>
+      <point x="501" y="710" type="line"/>
+      <point x="58" y="710" type="line"/>
+      <point x="58" y="560" type="line"/>
+      <point x="295" y="560" type="line"/>
+      <point x="181" y="397" type="line"/>
+      <point x="195" y="318" type="line"/>
+      <point x="292" y="327"/>
+      <point x="337" y="290"/>
+      <point x="337" y="223" type="curve" smooth="yes"/>
+      <point x="337" y="160"/>
+      <point x="302" y="135"/>
+      <point x="269" y="135" type="curve" smooth="yes"/>
+      <point x="233" y="135"/>
+      <point x="206" y="161"/>
+      <point x="202" y="206" type="curve"/>
+      <point x="27" y="196" type="line"/>
+      <point x="40" y="65"/>
+      <point x="136" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threelining</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>555</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threelining</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>555</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

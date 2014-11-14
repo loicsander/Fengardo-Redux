@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="758"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="402" y="130" type="line"/>
+      <point x="485" y="311" type="line"/>
+      <point x="523" y="408" type="line"/>
+      <point x="525" y="407" type="line"/>
+      <point x="515" y="311" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="708" y="0" type="line"/>
+      <point x="708" y="710" type="line"/>
+      <point x="524" y="710" type="line"/>
+      <point x="408" y="444" type="line"/>
+      <point x="379" y="366" type="line"/>
+      <point x="377" y="366" type="line"/>
+      <point x="346" y="445" type="line"/>
+      <point x="240" y="710" type="line"/>
+      <point x="50" y="710" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="233" y="309" type="line"/>
+      <point x="223" y="407" type="line"/>
+      <point x="225" y="408" type="line"/>
+      <point x="260" y="312" type="line"/>
+      <point x="339" y="130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>758</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>758</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
