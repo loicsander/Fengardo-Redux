@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="474"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="307" y="589" type="curve" smooth="yes"/>
+      <point x="374" y="589"/>
+      <point x="397" y="641"/>
+      <point x="391" y="700" type="curve"/>
+      <point x="338" y="700" type="line"/>
+      <point x="338" y="672"/>
+      <point x="331" y="652"/>
+      <point x="310" y="652" type="curve" smooth="yes"/>
+      <point x="281" y="652"/>
+      <point x="224" y="699"/>
+      <point x="176" y="699" type="curve" smooth="yes"/>
+      <point x="117" y="699"/>
+      <point x="88" y="646"/>
+      <point x="93" y="589" type="curve"/>
+      <point x="149" y="589" type="line"/>
+      <point x="149" y="613"/>
+      <point x="158" y="633"/>
+      <point x="179" y="633" type="curve" smooth="yes"/>
+      <point x="211" y="633"/>
+      <point x="262" y="589"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>474</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>474</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six" format="1">
+  <advance width="540"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="70" y="209" type="curve" smooth="yes"/>
+      <point x="77" y="73"/>
+      <point x="159" y="-15"/>
+      <point x="282" y="-15" type="curve" smooth="yes"/>
+      <point x="401" y="-15"/>
+      <point x="482" y="66"/>
+      <point x="482" y="196" type="curve" smooth="yes"/>
+      <point x="482" y="334"/>
+      <point x="402" y="388"/>
+      <point x="306" y="388" type="curve" smooth="yes"/>
+      <point x="229" y="388"/>
+      <point x="168" y="339"/>
+      <point x="147" y="271" type="curve"/>
+      <point x="143" y="214" type="line"/>
+      <point x="158" y="174" type="line"/>
+      <point x="149" y="263"/>
+      <point x="209" y="318"/>
+      <point x="281" y="318" type="curve" smooth="yes"/>
+      <point x="342" y="318"/>
+      <point x="392" y="290"/>
+      <point x="392" y="196" type="curve" smooth="yes"/>
+      <point x="392" y="104"/>
+      <point x="353" y="60"/>
+      <point x="282" y="60" type="curve" smooth="yes"/>
+      <point x="201" y="60"/>
+      <point x="160" y="115"/>
+      <point x="156" y="205" type="curve" smooth="yes"/>
+      <point x="154" y="280"/>
+      <point x="152" y="374"/>
+      <point x="156" y="443" type="curve" smooth="yes"/>
+      <point x="161" y="536"/>
+      <point x="199" y="585"/>
+      <point x="275" y="585" type="curve" smooth="yes"/>
+      <point x="346" y="585"/>
+      <point x="373" y="537"/>
+      <point x="374" y="474" type="curve"/>
+      <point x="454" y="479" type="line"/>
+      <point x="456" y="595"/>
+      <point x="383" y="660"/>
+      <point x="280" y="660" type="curve" smooth="yes"/>
+      <point x="147" y="660"/>
+      <point x="76" y="566"/>
+      <point x="70" y="443" type="curve" smooth="yes"/>
+      <point x="66" y="371"/>
+      <point x="68" y="271"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>six</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>six</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

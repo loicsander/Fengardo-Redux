@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeropropslash" format="1">
+  <advance width="547"/>
+  <outline>
+    <contour>
+      <point x="218" y="170" type="line"/>
+      <point x="403" y="497" type="line"/>
+      <point x="403" y="497"/>
+      <point x="336" y="545"/>
+      <point x="336" y="548" type="curve"/>
+      <point x="287" y="463"/>
+      <point x="202" y="303"/>
+      <point x="156" y="221" type="curve"/>
+    </contour>
+    <component base="zeroprop" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zeropropslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>547</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zeropropslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>547</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

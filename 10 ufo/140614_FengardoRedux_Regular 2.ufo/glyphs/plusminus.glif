@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="588"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="100" y="60" type="line"/>
+      <point x="100" y="-15" type="line"/>
+      <point x="480" y="-15" type="line"/>
+      <point x="480" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="110" type="line"/>
+      <point x="328" y="299" type="line"/>
+      <point x="511" y="299" type="line"/>
+      <point x="511" y="374" type="line"/>
+      <point x="328" y="374" type="line"/>
+      <point x="328" y="560" type="line"/>
+      <point x="253" y="560" type="line"/>
+      <point x="253" y="374" type="line"/>
+      <point x="77" y="374" type="line"/>
+      <point x="77" y="299" type="line"/>
+      <point x="253" y="299" type="line"/>
+      <point x="253" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>588</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>588</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

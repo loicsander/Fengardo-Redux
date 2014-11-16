@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fsuperior" format="1">
+  <advance width="217"/>
+  <outline>
+    <contour>
+      <point x="131" y="700" type="line"/>
+      <point x="209" y="700" type="line"/>
+      <point x="209" y="655" type="line"/>
+      <point x="131" y="655" type="line"/>
+      <point x="131" y="390" type="line"/>
+      <point x="66" y="390" type="line"/>
+      <point x="66" y="655" type="line"/>
+      <point x="22" y="655" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="66" y="700" type="line"/>
+      <point x="66" y="728" type="line" smooth="yes"/>
+      <point x="66" y="811"/>
+      <point x="116" y="850"/>
+      <point x="172" y="850" type="curve" smooth="yes"/>
+      <point x="201" y="850"/>
+      <point x="228" y="842"/>
+      <point x="240" y="832" type="curve"/>
+      <point x="226" y="789" type="line"/>
+      <point x="226" y="789"/>
+      <point x="206" y="795"/>
+      <point x="183" y="795" type="curve" smooth="yes"/>
+      <point x="137" y="795"/>
+      <point x="131" y="757"/>
+      <point x="131" y="724" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>217</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>217</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

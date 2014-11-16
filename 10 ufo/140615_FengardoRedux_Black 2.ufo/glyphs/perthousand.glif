@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1072"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="20" y="534" type="curve" smooth="yes"/>
+      <point x="20" y="446"/>
+      <point x="82" y="385"/>
+      <point x="170" y="385" type="curve" smooth="yes"/>
+      <point x="253" y="385"/>
+      <point x="321" y="446"/>
+      <point x="321" y="534" type="curve" smooth="yes"/>
+      <point x="321" y="623"/>
+      <point x="259" y="685"/>
+      <point x="170" y="685" type="curve" smooth="yes"/>
+      <point x="82" y="685"/>
+      <point x="20" y="623"/>
+    </contour>
+    <contour>
+      <point x="141" y="535" type="curve" smooth="yes"/>
+      <point x="141" y="555"/>
+      <point x="154" y="570"/>
+      <point x="171" y="570" type="curve" smooth="yes"/>
+      <point x="188" y="570"/>
+      <point x="201" y="555"/>
+      <point x="201" y="535" type="curve" smooth="yes"/>
+      <point x="201" y="515"/>
+      <point x="188" y="500"/>
+      <point x="171" y="500" type="curve" smooth="yes"/>
+      <point x="154" y="500"/>
+      <point x="141" y="515"/>
+    </contour>
+    <contour>
+      <point x="420" y="134" type="curve" smooth="yes"/>
+      <point x="420" y="46"/>
+      <point x="482" y="-15"/>
+      <point x="570" y="-15" type="curve" smooth="yes"/>
+      <point x="653" y="-15"/>
+      <point x="721" y="46"/>
+      <point x="721" y="134" type="curve" smooth="yes"/>
+      <point x="721" y="223"/>
+      <point x="659" y="285"/>
+      <point x="570" y="285" type="curve" smooth="yes"/>
+      <point x="482" y="285"/>
+      <point x="420" y="223"/>
+    </contour>
+    <contour>
+      <point x="541" y="135" type="curve" smooth="yes"/>
+      <point x="541" y="155"/>
+      <point x="554" y="170"/>
+      <point x="571" y="170" type="curve" smooth="yes"/>
+      <point x="588" y="170"/>
+      <point x="601" y="155"/>
+      <point x="601" y="135" type="curve" smooth="yes"/>
+      <point x="601" y="115"/>
+      <point x="588" y="100"/>
+      <point x="571" y="100" type="curve" smooth="yes"/>
+      <point x="554" y="100"/>
+      <point x="541" y="115"/>
+    </contour>
+    <contour>
+      <point x="751" y="134" type="curve" smooth="yes"/>
+      <point x="751" y="46"/>
+      <point x="813" y="-15"/>
+      <point x="901" y="-15" type="curve" smooth="yes"/>
+      <point x="984" y="-15"/>
+      <point x="1052" y="46"/>
+      <point x="1052" y="134" type="curve" smooth="yes"/>
+      <point x="1052" y="223"/>
+      <point x="990" y="285"/>
+      <point x="901" y="285" type="curve" smooth="yes"/>
+      <point x="813" y="285"/>
+      <point x="751" y="223"/>
+    </contour>
+    <contour>
+      <point x="872" y="135" type="curve" smooth="yes"/>
+      <point x="872" y="155"/>
+      <point x="885" y="170"/>
+      <point x="902" y="170" type="curve" smooth="yes"/>
+      <point x="919" y="170"/>
+      <point x="932" y="155"/>
+      <point x="932" y="135" type="curve" smooth="yes"/>
+      <point x="932" y="115"/>
+      <point x="919" y="100"/>
+      <point x="902" y="100" type="curve" smooth="yes"/>
+      <point x="885" y="100"/>
+      <point x="872" y="115"/>
+    </contour>
+    <component base="fraction" xOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>perthousand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1072</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>perthousand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1072</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

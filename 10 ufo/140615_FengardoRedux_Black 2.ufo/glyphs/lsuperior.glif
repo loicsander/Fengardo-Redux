@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lsuperior" format="1">
+  <advance width="203"/>
+  <outline>
+    <contour>
+      <point x="155" y="850" type="line"/>
+      <point x="30" y="831" type="line"/>
+      <point x="30" y="479" type="line" smooth="yes"/>
+      <point x="30" y="372"/>
+      <point x="135" y="378"/>
+      <point x="193" y="390" type="curve"/>
+      <point x="193" y="475" type="line"/>
+      <point x="170" y="475"/>
+      <point x="155" y="479"/>
+      <point x="155" y="505" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>203</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lsuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>203</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="630"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="502" y="487" type="line"/>
+      <point x="314" y="299" type="line"/>
+      <point x="130" y="486" type="line"/>
+      <point x="77" y="430" type="line"/>
+      <point x="261" y="245" type="line"/>
+      <point x="75" y="59" type="line"/>
+      <point x="128" y="5" type="line"/>
+      <point x="314" y="191" type="line"/>
+      <point x="502" y="5" type="line"/>
+      <point x="555" y="60" type="line"/>
+      <point x="368" y="246" type="line"/>
+      <point x="555" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>multiply</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>630</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>multiply</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>630</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
