@@ -3,8 +3,8 @@
   <advance width="592"/>
   <unicode hex="00D2"/>
   <outline>
-    <component base="O"/>
     <component base="grave.cap" xOffset="-100" yOffset="150"/>
+    <component base="O"/>
   </outline>
   <lib>
     <dict>

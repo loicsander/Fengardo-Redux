@@ -6,10 +6,18 @@
     <contour>
       <point x="476" y="500" type="line"/>
       <point x="416" y="500" type="line"/>
+      <point x="378" y="446" type="line"/>
+      <point x="357" y="417" type="line"/>
+      <point x="144" y="116" type="line"/>
+      <point x="118" y="80" type="line"/>
       <point x="51" y="-15" type="line"/>
       <point x="50" y="-15"/>
       <point x="111" y="-15"/>
       <point x="111" y="-15" type="curve"/>
+      <point x="153" y="44" type="line"/>
+      <point x="172" y="71" type="line"/>
+      <point x="390" y="378" type="line"/>
+      <point x="411" y="408" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

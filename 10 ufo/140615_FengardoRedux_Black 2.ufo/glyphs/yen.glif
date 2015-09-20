@@ -4,16 +4,16 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="69" y="238" type="line"/>
-      <point x="541" y="238" type="line"/>
-      <point x="541" y="333" type="line"/>
-      <point x="69" y="333" type="line"/>
+      <point x="93" y="238" type="line"/>
+      <point x="565" y="238" type="line"/>
+      <point x="565" y="333" type="line"/>
+      <point x="93" y="333" type="line"/>
     </contour>
     <contour>
-      <point x="69" y="108" type="line"/>
-      <point x="541" y="108" type="line"/>
-      <point x="541" y="203" type="line"/>
-      <point x="69" y="203" type="line"/>
+      <point x="93" y="108" type="line"/>
+      <point x="565" y="108" type="line"/>
+      <point x="565" y="203" type="line"/>
+      <point x="93" y="203" type="line"/>
     </contour>
     <component base="Y" xOffset="35"/>
   </outline>

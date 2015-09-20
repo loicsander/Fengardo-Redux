@@ -2,8 +2,39 @@
 <glyph name="F_J" format="1">
   <advance width="857"/>
   <outline>
-    <component base="F"/>
-    <component base="J" xOffset="329"/>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="300" type="line"/>
+      <point x="470" y="300" type="line"/>
+      <point x="470" y="375" type="line"/>
+      <point x="185" y="375" type="line"/>
+      <point x="185" y="625" type="line"/>
+      <point x="489" y="625" type="line"/>
+      <point x="489" y="700" type="line"/>
+      <point x="95" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="676" y="700" type="line"/>
+      <point x="676" y="235" type="line" smooth="yes"/>
+      <point x="676" y="120"/>
+      <point x="644" y="60"/>
+      <point x="563" y="60" type="curve" smooth="yes"/>
+      <point x="483" y="60"/>
+      <point x="445" y="106"/>
+      <point x="444" y="205" type="curve"/>
+      <point x="366" y="205" type="line"/>
+      <point x="365" y="202"/>
+      <point x="364" y="193"/>
+      <point x="364" y="185" type="curve" smooth="yes"/>
+      <point x="364" y="63"/>
+      <point x="433" y="-15"/>
+      <point x="563" y="-15" type="curve" smooth="yes"/>
+      <point x="686" y="-15"/>
+      <point x="766" y="74"/>
+      <point x="766" y="235" type="curve" smooth="yes"/>
+      <point x="766" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
