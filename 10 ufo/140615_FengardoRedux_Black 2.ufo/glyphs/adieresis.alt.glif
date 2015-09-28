@@ -3,7 +3,7 @@
   <advance width="517"/>
   <outline>
     <component base="a.alt"/>
-    <component base="dieresis" xOffset="16" yOffset="-16"/>
+    <component base="dieresis" xOffset="20" yOffset="-7"/>
   </outline>
   <lib>
     <dict>

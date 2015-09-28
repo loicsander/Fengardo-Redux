@@ -3,13 +3,13 @@
   <advance width="443"/>
   <outline>
     <contour>
-      <point x="192" y="585" type="line"/>
-      <point x="84" y="715" type="line"/>
-      <point x="158" y="715" type="line"/>
-      <point x="219" y="637" type="line"/>
-      <point x="278" y="715" type="line"/>
-      <point x="352" y="715" type="line"/>
       <point x="245" y="585" type="line"/>
+      <point x="352" y="715" type="line"/>
+      <point x="278" y="715" type="line"/>
+      <point x="219" y="637" type="line"/>
+      <point x="158" y="715" type="line"/>
+      <point x="84" y="715" type="line"/>
+      <point x="192" y="585" type="line"/>
     </contour>
   </outline>
   <lib>
